@@ -1,0 +1,8 @@
+Structure of the working process in a data science team 
+1 Gathering 
+2 Cleaning 
+3 Preprocessing 
+
+Task:
+Convert dollar to euro
+Every categorical variable must be qualified (change any text columns to numbers)
